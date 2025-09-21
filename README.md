@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fikri.akbar1p@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Coffee is basically my co-developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
