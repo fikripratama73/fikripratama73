@@ -16,19 +16,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="laravel" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="laravel" width="40" height="40" style="background:white; border-radius:50%; padding:5px;"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40" style="background:white; border-radius:50%; padding:5px;"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40" style="background:white; border-radius:50%; padding:5px;"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40" style="background:white; border-radius:50%; padding:5px;"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/express/000000" alt="express" width="40" height="40"/> 
+    <img src="https://cdn.simpleicons.org/express/000000" alt="express" width="40" height="40" style="background:white; border-radius:50%; padding:5px;"/> 
   </a>
 </p>
 
